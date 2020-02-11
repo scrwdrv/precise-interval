@@ -1,0 +1,26 @@
+{
+  "name": "precise-interval",
+  "version": "1.0.2",
+  "description": "A Javascript setInterval time accurate solution.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scrwdrv/precise-interval.git"
+  },
+  "keywords": [
+    "timer",
+    "setInterval",
+    "setTimeout",
+    "typescript",
+    "accurate"
+  ],
+  "author": "scrwdrv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scrwdrv/precise-interval/issues"
+  },
+  "homepage": "https://github.com/scrwdrv/precise-interval#readme"
+}
